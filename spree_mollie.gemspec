@@ -2,9 +2,9 @@
 Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.name        = 'spree_mollie'
-  s.version     = '1.0.0'
-  s.summary     = 'TODO: Add gem summary here'
-  s.description = 'TODO: Add (optional) gem description here'
+  s.version     = '0.0.1'
+  s.summary     = 'Spree Mollie'
+  s.description = 'Spree Mollie'
   s.required_ruby_version = '>= 1.8.7'
 
   s.author            = 'Arjan Landman'
